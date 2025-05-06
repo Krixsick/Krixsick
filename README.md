@@ -1,4 +1,4 @@
-😼 About Me
+**😼 About Me**
 
 Hey, my name is Linus Gao. I'm a third-year computer science student at Western University. I enjoy coding random projects, especially websites and would love to work together in creating something cool :)
 <!--
