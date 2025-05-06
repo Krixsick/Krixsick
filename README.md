@@ -1,5 +1,6 @@
-## Hi there 👋
+😼 About Me
 
+Hey, my name is Linus Gao. I'm a third-year computer science student at Western University. I enjoy coding random projects, especially websites and would love to work together in creating something cool :)
 <!--
 **Krixsick/Krixsick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
