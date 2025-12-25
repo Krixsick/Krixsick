@@ -15,4 +15,4 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Krixsick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krixsick)](https://github.com/Krixsick)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krixsick)](https://github.com/Krixsick/github-readme-stats)
