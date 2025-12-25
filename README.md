@@ -15,4 +15,4 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krixsick&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Krixsick&theme=buefy)](https://git.io/streak-stats)
