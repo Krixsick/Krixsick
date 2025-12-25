@@ -3,7 +3,7 @@ About Me
 ```yaml
   Coming Soon
 ```
-Languages
+<h1>Languages</h1>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -12,4 +12,4 @@ Languages
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Krixsick's GitHub stats](https://github-readme-stats.vercel.app/api?username=krixsick)](https://github.com/krixsick/github-readme-stats)
+[![Krixsick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krixsick)](https://github.com/Krixsick/github-readme-stats)
